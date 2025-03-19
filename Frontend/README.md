@@ -42,7 +42,7 @@ El frontend se organiza de la siguiente manera:
 3. **ℹ️ Pantalla "Acerca de"**: Contiene información acerca del servicio y de los desarrolladores.
 4. **📞 Pantalla "Contacto"**: Muestra información de contacto.
 
-### **🛠 Componentes Tentativos**
+### **🛠 Componentes**
 - `FileUploader`: Componente para la selección y carga de archivos.
 - `FileList`: Muestra la lista de archivos cargados y un panel con las acciones disponibles.
 - `FilePreviewModal`: Ventana emergente para la vista previa del documento.
