@@ -3,12 +3,12 @@ Este proyecto ofrece una solución eficiente para gestionar y analizar facturas 
 
 ---
 
-## 🛠 Tecnologías utilizadas
+## 🛠 Tecnología
 - **Frontend:** React ⚛️
 
 ---
 
-## 💻 Breakpoints (Resoluciones soportadas)
+## 💻 Breakpoints 
 El diseño es responsivo y está optimizado para las siguientes resoluciones:
 - **1366 × 768** (HD)
 - **1920 × 1080** (Full HD)
